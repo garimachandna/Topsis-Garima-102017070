@@ -17,6 +17,12 @@ Enter csv filename followed by .csv extension, then enter the weights vector wit
 
 ```Topsis sample.csv 1,1,1,1 +,-,+,+ result.csv```
 
+## Web App hosted at
+http://garimachandna.pythonanywhere.com/
+
+## Package link
+https://pypi.org/project/Topsis-Garima-102017070/
+
 ## License
 
 © 2023 Garima Chandna
